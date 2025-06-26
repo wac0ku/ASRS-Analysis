@@ -1,0 +1,8 @@
+node_modules/
+virt_env/
+venv/
+__pycache__/
+*.pyc
+*.zip
+
+
